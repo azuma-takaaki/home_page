@@ -180,3 +180,15 @@ li{
   margin: 2rem auto;
 }
 
+#top-content-history-detail-text {
+  width: 50vw;
+  padding: 5rem auto;
+  margin: 2rem auto;
+}
+
+#top-content-history-image{
+  width: 50%;
+  filter: saturate(80%);
+  filter: contrast(80%);
+  filter: brightness(120%);
+}
